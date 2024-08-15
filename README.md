@@ -19,3 +19,14 @@ A set of monolingual and parallel corpora extracted from Wikipedia. The corpora 
 * [segments-20240501-spa-oci_oci.txt](http://lpg.uoc.edu/WikipediaCorpora/spa-oci/segments-20240501-spa-oci_oci.txt)
 * [segments-20240501-spa-oci_spa.txt](http://lpg.uoc.edu/WikipediaCorpora/spa-oci/segments-20240501-spa-oci_spa.txt)
 
+## spa-cat
+
+* [wikipedia-20240501-spa-cat.txt.gz](http://lpg.uoc.edu/WikipediaCorpora/spa-cat/wikipedia-20240501-spa-cat.txt.gz)
+* [segments-20240501-spa-cat_cat.txt.gz](http://lpg.uoc.edu/WikipediaCorpora/spa-cat/segments-20240501-spa-cat_cat.txt.gz)
+* [segments-20240501-spa-cat_spa.txt.gz](http://lpg.uoc.edu/WikipediaCorpora/spa-cat/segments-20240501-spa-cat_spa.txt.gz)
+
+## spa-glg
+
+* [wikipedia-20240501-spa-glg.txt](http://lpg.uoc.edu/WikipediaCorpora/spa-glg/wikipedia-20240501-spa-glg.txt)
+* [segments-20240501-spa-glg_glg.txt](http://lpg.uoc.edu/WikipediaCorpora/spa-glg/segments-20240501-spa-glg_glg.txt)
+* [segments-20240501-spa-oci_spa.txt](http://lpg.uoc.edu/WikipediaCorpora/spa-glg/segments-20240501-spa-glg_spa.txt)
